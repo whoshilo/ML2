@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+Carti/artists.csv
+Carti/dict_artists.json
+Carti/mpd.slice.0-999.json
+Carti/mpd.slice.99000-99999.json
+Carti/mpd.slice.995000-995999.json
+Carti/mpd.slice.996000-996999.json
+Carti/mpd.slice.997000-997999.json
+Carti/mpd.slice.998000-998999.json
+Carti/mpd.slice.999000-999999.json
+Carti/tracks.csv
